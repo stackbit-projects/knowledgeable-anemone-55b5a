@@ -116,11 +116,6 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
-      - type: Button
-        label: Get Started
-        url: /
-        style: Secondary
-        altText: Get Started
       - label: First
         altText: Learn more
         url: /
