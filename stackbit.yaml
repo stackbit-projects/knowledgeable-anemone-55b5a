@@ -22,7 +22,7 @@ models:
       label: Styles
     - name: settings
       label: Settings
-  thumbnail: "images/contact-image.jpg",",
+  thumbnail: "images/contact-image.jpg",
   fields:
   - type: string
     name: label
