@@ -1,0 +1,19 @@
+{
+    "model": "Button",
+    "presets": [
+        {
+            "label": "First",
+            "data": {
+                "type": "button",
+                "title": "First"
+            }
+        },
+        {
+            "label": "Second",
+            "data": {
+                "type": "button",
+                "title": "Second"
+            }
+        }
+    ]
+}
