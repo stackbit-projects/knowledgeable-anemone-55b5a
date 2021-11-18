@@ -2,6 +2,64 @@
 title: Home
 layout: PageLayout
 sections:
+  - elementId: ''
+    colors: colors-h
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    testimonials:
+      - type: Testimonial
+        quote: |-
+          “It’s great to see someone taking action while still maintaining a
+          sustainable fish supply to home cooks.”
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: /images/dianne-ameter.jpg
+          altText: Product Marketing Manager
+        styles:
+          self:
+            flexDirection: row
+          quote:
+            textAlign: left
+          name:
+            textAlign: left
+          title:
+            textAlign: left
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-neutral
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-2
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-12
+    type: TestimonialsSection
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
