@@ -15,6 +15,17 @@ styleObjectModelName: ThemeStyle
 models:
   button:
     type: object
+    fields:
+    - type: string
+      name: label
+      label: Label
+      default: Learn more
+    - type: string
+      name: altText
+      label: Alt text
+      default: Learn more
+      description: The alternative text for screen readers
+
 contentModels:
   PageLayout:
     isPage: true
