@@ -69,6 +69,11 @@
                 "type": "Button"
             },
             {
+                "label": "First",
+                "altText": "Learn more",
+                "type": "Button"
+            },
+            {
                 "label": "Learn more",
                 "altText": "Learn more",
                 "url": "/",
