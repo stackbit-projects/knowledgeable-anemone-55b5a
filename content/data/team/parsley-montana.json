@@ -4,5 +4,16 @@
     "role": "Senior Designer, Motion Graphics",
     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n",
     "id": "parsley-montana",
-    "type": "Person"
+    "type": "Person",
+    "image": {
+        "altText": "lorem-ipsum",
+        "caption": "lorem-ipsum",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "opacity": 100
+            }
+        },
+        "type": "ImageBlock"
+    }
 }
