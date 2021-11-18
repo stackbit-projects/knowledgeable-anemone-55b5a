@@ -1,5 +1,5 @@
 {
-    "model": "Button",
+    "model": "_Button",
     "presets": [
         {
             "label": "First",
