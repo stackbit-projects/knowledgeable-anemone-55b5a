@@ -12,6 +12,9 @@ pagesDir: content/pages
 pageLayoutKey: layout
 objectTypeKey: type
 styleObjectModelName: ThemeStyle
+models:
+  button:
+    type: object
 contentModels:
   PageLayout:
     isPage: true
