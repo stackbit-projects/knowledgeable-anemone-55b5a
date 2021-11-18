@@ -14,13 +14,6 @@
         "primaryLinks": [],
         "secondaryLinks": [
             {
-                "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "altText": "Home",
-                "style": "link"
-            },
-            {
                 "label": "Learn more",
                 "altText": "Learn more",
                 "url": "/",
