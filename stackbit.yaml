@@ -14,6 +14,7 @@ objectTypeKey: type
 styleObjectModelName: ThemeStyle
 models:
   Button:
+    label: Button,
     type: object
     thumbnail: ./.stackbit/presets/images/contact-image.jpg
     fields:
