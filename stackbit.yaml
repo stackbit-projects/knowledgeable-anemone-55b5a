@@ -12,7 +12,7 @@ pagesDir: content/pages
 pageLayoutKey: layout
 objectTypeKey: type
 styleObjectModelName: ThemeStyle
-models:
+contentModels:
   button: 
     type: object
     name: Button
@@ -85,7 +85,6 @@ models:
         label: Element ID
         description: The unique ID for an HTML element, must not contain whitespace
         default: ''
-contentModels:
   PageLayout:
     isPage: true
     urlPath: '/{slug}'
@@ -96,3 +95,4 @@ contentModels:
     newFilePath: 'blog/{slug}.md'
   Person:
     newFilePath: 'team/{slug}.json'
+  
