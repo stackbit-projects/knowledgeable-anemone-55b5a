@@ -13,7 +13,7 @@ pageLayoutKey: layout
 objectTypeKey: type
 styleObjectModelName: ThemeStyle
 models:
-  button:
+  Button:
     type: object
     fields:
     - type: string
