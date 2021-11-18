@@ -16,7 +16,7 @@ models:
   Button:
     label: Button
     type: object
-    thumbnail_: ./.stackbit/presets/images/contact-image.jpg
+    thumbnail: ./.stackbit/presets/images/contact-image.jpg
     fields:
     - type: string
       name: label
