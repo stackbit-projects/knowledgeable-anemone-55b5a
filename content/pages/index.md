@@ -67,6 +67,14 @@ sections:
       - label: Learn more
         altText: Learn more
         type: Button
+    feature:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-a
