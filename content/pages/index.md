@@ -92,6 +92,10 @@ sections:
       action: /.netlify/functions/submission_created
       destination: ''
       type: FormBlock
+    actions:
+      - label: Learn more
+        altText: Learn more
+        type: Button
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-a
