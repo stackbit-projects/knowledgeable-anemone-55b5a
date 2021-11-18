@@ -25,17 +25,6 @@
                 "type": "Link"
             },
             {
-                "label": "Work",
-                "altText": "Work",
-                "url": "/portfolio",
-                "showIcon": false,
-                "icon": "arrowLeft",
-                "iconPosition": "right",
-                "style": "link",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
                 "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowLeft",
