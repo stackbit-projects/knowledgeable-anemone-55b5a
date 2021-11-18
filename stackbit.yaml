@@ -84,7 +84,6 @@ models:
     label: Element ID
     description: The unique ID for an HTML element, must not contain whitespace
     default: ''
-
 contentModels:
   PageLayout:
     isPage: true
