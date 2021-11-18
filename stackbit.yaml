@@ -12,7 +12,7 @@ pagesDir: content/pages
 pageLayoutKey: layout
 objectTypeKey: type
 styleObjectModelName: ThemeStyle
-contentModels:
+contentModels123:
   PageLayout:
     isPage: true
     urlPath: '/{slug}'
