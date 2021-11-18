@@ -75,6 +75,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /agency-nextjs-theme-screenshot-2x.jpg
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-a
