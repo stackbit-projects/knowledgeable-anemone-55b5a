@@ -121,6 +121,15 @@ sections:
         url: /
         style: link
         altText: Learn more
+      - label: First
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowLeft
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     feature:
       type: ImageBlock
       url: /images/about.jpg
