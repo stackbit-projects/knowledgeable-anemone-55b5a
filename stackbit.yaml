@@ -22,5 +22,4 @@ contentModels:
     urlPath: '/blog/{slug}'
     newFilePath: 'blog/{slug}.md'
   Person:
-    thumbnail: "images/contact-image.jpg",
     newFilePath: 'team/{slug}.json'
