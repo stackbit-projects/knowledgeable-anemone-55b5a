@@ -22,7 +22,7 @@ models:
       label: Styles
     - name: settings
       label: Settings
-  thumbnail: file:///home/codeeditor/workspace/code/.stackbit/presets/contact-section.json,
+  thumbnail: "images/contact-image.jpg",",
   fields:
   - type: string
     name: label
