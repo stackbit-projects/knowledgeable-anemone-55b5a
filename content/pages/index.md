@@ -116,15 +116,6 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
-      - label: First
-        altText: Learn more
-        url: /
-        showIcon: false
-        icon: arrowLeft
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - type: Link
         label: Learn more
         url: /
