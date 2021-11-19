@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-h
-    title: lorem-ipsum
+    title: lorem-ipsumasd
     subtitle: lorem-ipsum
     testimonials:
       - type: Testimonial
