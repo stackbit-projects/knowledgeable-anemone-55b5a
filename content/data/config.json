@@ -76,6 +76,11 @@
             {
                 "label": "Learn more",
                 "altText": "Learn more",
+                "type": "Button"
+            },
+            {
+                "label": "Learn more",
+                "altText": "Learn more",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowLeft",
