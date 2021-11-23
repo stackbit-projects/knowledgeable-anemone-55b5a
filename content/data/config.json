@@ -43,11 +43,6 @@
             {
                 "label": "Learn more",
                 "altText": "Learn more",
-                "type": "Button"
-            },
-            {
-                "label": "Learn more",
-                "altText": "Learn more",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowLeft",
@@ -55,6 +50,11 @@
                 "style": "link",
                 "elementId": "",
                 "type": "Link"
+            },
+            {
+                "label": "Learn more",
+                "altText": "Learn more",
+                "type": "Button"
             },
             {
                 "label": "Learn more",
