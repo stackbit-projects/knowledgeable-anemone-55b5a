@@ -58,6 +58,61 @@ sections:
         justifyContent: flex-start
     type: CtaSection
   - elementId: ''
+    colors: colors-f
+    backgroundImage:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
+    title: Let's do this
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
+    actions:
+      - type: Button
+        label: Try it now
+        url: /about
+        style: primary
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-neutral
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: left
+        margin:
+          - mt-0
+          - mb-4
+      text:
+        textAlign: left
+        margin:
+          - mt-0
+          - mb-0
+      actions:
+        justifyContent: flex-start
+    type: CtaSection
+  - elementId: ''
     colors: colors-h
     title: lorem-ipsum
     text: |-
